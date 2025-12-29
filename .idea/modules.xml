@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Search_Sort/BinarySearch.iml" filepath="$PROJECT_DIR$/Search_Sort/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA using Java.iml" filepath="$PROJECT_DIR$/.idea/DSA using Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search_Sort/Sorting/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/Search_Sort/Sorting/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search_Sort/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Search_Sort/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>
