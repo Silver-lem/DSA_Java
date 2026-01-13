@@ -3,6 +3,7 @@ package LinkedLists;
 public class Main {
     public static void main(String[] args) {
         LL list = new LL();
+        SingleDeletions s = new SingleDeletions();
 //        list.insertFirst(1);
 //        list.insertFirst(2);
 //        list.insertFirst(3);

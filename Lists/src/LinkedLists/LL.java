@@ -36,7 +36,7 @@ public class LL {
 
     //Insert at position
     public void insert(int val,int index){
-        if(head == null){
+        if(head == null){ //index == 0
             insertFirst(val);
             return;
         }
