@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Search_Sort/Sorting/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/Search_Sort/Sorting/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Miscellenous/Miscellenous.iml" filepath="$PROJECT_DIR$/Miscellenous/Miscellenous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursions/Recursions.iml" filepath="$PROJECT_DIR$/Recursions/Recursions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search_Sort/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Search_Sort/Sorting/Sorting.iml" />
     </modules>
