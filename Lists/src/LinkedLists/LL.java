@@ -9,6 +9,10 @@ public class LL {
         this.size = 0;
     }
 
+    public Node getHead(){
+        return head;
+    }
+
     //Inserting first element
     public void insertFirst(int value){
         Node node =  new Node(value);
@@ -85,6 +89,38 @@ public class LL {
         public Node(int value,Node next) {
             this.value = value;
             this.next = next;
+        }
+    }
+
+    public int get(int index) {
+        int count = 0;
+        // if(index > size){
+        //     return -1;
+        // }
+
+        if(head == null || tail == null){
+            return -1;
+        }
+
+        Node temp = head;
+        for(int i =0;i<=index;i++){
+            temp = temp.next;
+            // index--;
+            count++;
+        }
+        return temp.value;
+    }
+
+    public void reverse(Node head){
+        Node current = head;
+        Node prev = null;
+        Node temp = null;
+
+        while(current != null){
+            temp = current.next;
+            current.next = prev;
+            prev = current;
+            current = temp;
         }
     }
 }
